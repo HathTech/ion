@@ -79,7 +79,10 @@ http://localhost:8080
 #### 1. Clone
 
 ```
-git clone https://github.com/pion/ion
+wget https://github.com/HathTech/ion/archive/v0.3.0.zip
+mkdir ion
+unzip v0.3.0.zip -d ion
+
 ```
 
 #### 2. Set Env
